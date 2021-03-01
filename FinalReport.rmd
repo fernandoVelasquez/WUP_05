@@ -74,3 +74,4 @@ The odds ration is 1.543902 meaning that the women who receive the treatment had
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+From what we can see in the Numerical and Graphical charts, we can conclude that the Aids Vaccine Treatment is not effective and were more likely to be infected with aids than the women who did not received the treatment.   
